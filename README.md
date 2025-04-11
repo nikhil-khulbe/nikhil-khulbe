@@ -3,8 +3,22 @@
 💻 **Mobile & Web Developer** | React Native | JavaScript | Open Source
 
 ## 🚀 Top Projects
-- [**SwiftCart**]([https://github.com/nikhil-khulbe/swiftcart](https://github.com/nikhil-khulbe/project-ecommerce-submodule)) - E-commerce app with JWT auth & Redux state management  
-- [**Nova Academy**]([https://github.com/nikhil-khulbe/nova-academy](https://khan-acadmey-clone.netlify.app/)) - Interactive learning platform (HTML/CSS/JS)  
+
+### SwiftCart - E-Commerce Mobile App
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge)](https://khan-acadmey-clone.netlify.app/)
+[![GitHub Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://github.com/nikhil-khulbe/project-ecommerce-submodule)
+
+- Built with: `React Native` `JavaScript`  
+- Features: Product listings, cart system, JWT authentication
+- Optimized for both iOS and Android platforms
+
+### Nova Academy - Learning Platform
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge)](https://khan-acadmey-clone.netlify.app/) 
+[![GitHub Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://github.com/nikhil-khulbe/project-ecommerce-submodule)
+
+- Built with: `HTML5` `CSS3` `JavaScript`
+- Features: Interactive courses, progress tracking, responsive design
+- Deployed on Netlify with CI/CD pipeline
 
 ## 🛠️ Tech Stack
 
