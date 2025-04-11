@@ -14,7 +14,7 @@
 
 ### Nova Academy - Learning Platform
 [![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge)](https://khan-acadmey-clone.netlify.app/) 
-[![GitHub Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://github.com/nikhil-khulbe/project-ecommerce-submodule)
+[![GitHub Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://github.com/Janhavi2212/B42_WEB_018_The-Debuggers.git))
 
 - Built with: `HTML5` `CSS3` `JavaScript`
 - Features: Interactive courses, progress tracking, responsive design
