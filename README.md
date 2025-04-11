@@ -1,11 +1,12 @@
 # Hi! I'm Nikhil Khulbe 👋
 
-💻 **Mobile & Web Developer** | React Native | JavaScript | Open Source
+💻 **Aspiring Mobile & Web Developer** | React Enthusiast | JavaScript | React | Open to Opportunities
+
 
 ## 🚀 Top Projects
 
 ### SwiftCart - E-Commerce Mobile App
-[![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge)](https://khan-acadmey-clone.netlify.app/)
+
 [![GitHub Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://github.com/nikhil-khulbe/project-ecommerce-submodule)
 
 - Built with: `React Native` `JavaScript`  
@@ -14,7 +15,7 @@
 
 ### Nova Academy - Learning Platform
 [![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge)](https://khan-acadmey-clone.netlify.app/) 
-[![GitHub Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://github.com/Janhavi2212/B42_WEB_018_The-Debuggers.git))
+[![GitHub Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://github.com/Janhavi2212/B42_WEB_018_The-Debuggers.git)
 
 - Built with: `HTML5` `CSS3` `JavaScript`
 - Features: Interactive courses, progress tracking, responsive design
